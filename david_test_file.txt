@@ -1,0 +1,3 @@
+This is David, testing out Github via creating a text file to upload.
+
+I am enjoying the course, learning more about Python, and gaining foundations in working collaboratively on code.
